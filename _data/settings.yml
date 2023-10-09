@@ -1,0 +1,19 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'PERF Acronyms',  url: 'acronyms'}
+- {name: 'Learning Resources', url: 'resources'}
+- {name: 'Documentation',      url: 'documentation'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+post_date_prefix: 'Written on'
