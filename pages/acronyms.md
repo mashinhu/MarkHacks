@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: default
 title: PERF Acronyms
 category: acronyms
 permalink: /acronyms
