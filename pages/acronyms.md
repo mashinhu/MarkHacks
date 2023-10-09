@@ -1,3 +1,10 @@
+---
+layout: category
+title: PERF Acronyms
+category: resources
+permalink: /acronyms
+---
+
 # PERF Avionics Acronyms
 
 ## Table of Contents (by letter)
@@ -30,149 +37,149 @@
 [z]()
 
 ### A
-- 3D, 4D three- or four-dimensional
-- 3G third generation
-- 3GCN third generation cabin network
-- 4096 CODE the octal base, four-digit code used between framing pulses of a reply to identify an aircraft or for general use and emergency codes (XPD)
-- A ampere(s)
-- A autotuned navaid
-- AA Avionics Acronyms
-- AAC aeronautical administration communications
-- AAC airline administrative communications
-- AAIB Air Accident Investigation Branch (UK equivalent of NTSB)
-- AAF airway facilities service
-- AAIPT again aircraft integrated product team
-- AAIU air accident investigation unit
-- AAL above aerodome level
-- AALC autonomous approach landing capability
-- AAMP advanced architecture microprocessor
-- AATT advanced aviation transportation technology
-- AAS advanced automation system (FAA)
-- A/B autobrake
-- ABC automatic brightness control
-- A-BPSK aviation binary phase shift keying
-- AC advisory circular
-- AC alternating current
-- AC2 Dolby surround
-- A/C aircraft
-- ACAA Air Carrier Association of America
-- ACAC air-cooled air cooler
-- ACAMS aircraft condition analysis management system
-- ACARS aircraft communications addressing and reporting system
-- ACAS airborne collision avoidance system (FAA)
-- ACC active clearance control
-- ACC area control center
-- ACC airspace control center
-- ACD automatic conflict detection
-- ACDO Air Carrier District Office
-- ACE actuator control electronics
-- ACE advanced certification equipment- 
-- ACED Aircraft Certification Electrical Design
-- ACG Assessment Compliance Group
-- ACIPS airfoil cowl ice protection system
-- ACF area control facility
-- ACK acknowledgment
-- ACL Aviation Common Library
-- ACMF airplane condition monitoring function
-- ACMP alternating current motor pump
-- ACMS aircraft condition monitoring system
-- ACNSS/ advanced communication/ navigation/surveillance system
-- ACO Aircraft Certification Office 
-- ACP audio control panel
-- ACS active control system
-- ACS air cycle system
-- ACS audio control system
-- ACS Aviation Compliance Specialist 
-- ACS Aviation Connected Services 
-- ACT active
-- ACTC airport traffic control towers
-- ACTD advanced concept technology demonstration
-- ACU aircraft communications system
-- ACU apron control unit
-- ACU autopilot control unit
-- ACU antenna control unit
-- AD airworthiness directives (FAA) (see also SAIB)
-- A/D analog-to-digital
-- ADA American Dental Association - The computer programming language Ada is named after a person, so only initial capital letter.
-- ADAHRS air data, attitude heading reference system
-- ADAS automated weather observing system data acquisition system
-- ADB airport data base or aviation data base
-- ADC air data computer
-- ADC Air Defense Command
-- ADE application development engineer
-- ADF automatic direction finding
-- ADG air-driven generator
-- ADI attitude director indicator
-- ADIRS air data inertial reference system
-- ADIRU air data inertial reference unit
-- ADL aeronautical data link
-- ADLP aircraft data link processor (Mode S)
-- ADLP airborne data link protocol
-- ADM air data module
-- ADMS airline data management system
-- ADN aircraft data network
-- ADO airline dispatch office
-- ADO airport district office
-- ADP air driven pump
-- ADR address
-- ADR Advanced Data Research
-- ADR alternative dispute resolution
-- ADRAS airplane data recovery and analysis system
-- ADS automatic dependent surveillance
-- ADS air data system
-- ADS-A automatic dependent surveillance- addressed
-- ADSA automatic dependent surveillance- automation
-- ADS-B automatic dependent surveillance- broadcast
-- ADS-C ADS contract
-- ADSEL address selective
-- ADSP automatic dependent surveillance panel
-- ADSSG ADS Study Group (ICAO)
-- ADSU automatic dependent surveillance unit
-- ADT air data tester
-- AEA Aircraft Electronics Association
-- AECU audio electronic control unit
-- AED ALGOL extended for design
-- AEEC Airlines Electronic Engineering Committee (ARINC)
-- AEO All engines operative
-- AEP ARINC engineering practices
-- AEP audio entertainment player
-- AER approach end of runway
-- AERA automated en route air traffic control
-- Aero B-Gan next generation broadband
-- AES aircraft earth station (Inmarsat)
-- AESA active electronically scanned array
-- AESS aircraft environment surveillance system
-- AEW airborne early warning
-- AF airway facilities
-- AFC Aeronautical Frequency Committee (AEEC)
-- AFC automatic frequency compensation
-- AFC automatic frequency control
-- AFCAS automatic flight control augmentation system
-- AFCS automatic flight control system
-- AFD adaptive flight display
-- AFD airport facilities directory
-- AFD autopilot flight director
-- AFD auxiliary flight display
-- AFDC autopilot flight director computer
-- AFDS autopilot flight director system
-- AFDX avionics full-duplex Ethernet switch
-- AFEPS ACARS front-end processing system
-- AFGCS automatic flight guidance and control system
-- AFI authority format identifier
-- AFIRS autonomous flight information collection and reporting system
-- AFIS airborne flight information system
-- AFIS Airbus in-flight information service
-- AFIS automatic flight information service
-- AFIS automated flight inspection system
-- AFM aircraft flight manual
-- AFMS aircraft flight manual supplement
-- AFMS automatic flight management system
-- AFN air traffic services facilities notification
-- AFP Airspace Flow Program
-- AFP Anti Finger Print
-- AFRL Air Force Research Lab
-- AFS additional secondary factors
-- AFS aeronautical fixed service (ICAO)
+- **3D**, 4D three- or four-dimensional
+- **3G** third generation
+- **3GCN** third generation cabin network
+- **4096** CODE the octal base, four-digit code used between framing pulses of a reply to identify an aircraft or for general use and emergency codes (XPD)
+- **A** ampere(s)
+- **A** autotuned navaid
+- **AA** Avionics Acronyms
+- **AAC** aeronautical administration communications
+- **AAC** airline administrative communications
+- **AAIB** Air Accident Investigation Branch (UK equivalent of NTSB)
+- **AAF** airway facilities service
+- **AAIPT** again aircraft integrated product team
+- **AAIU** air accident investigation unit
+- **AAL** above aerodome level
+- **AALC** autonomous approach landing capability
+- **AAMP** advanced architecture microprocessor
+- **AATT** advanced aviation transportation technology
+- **AAS** advanced automation system (FAA)
+- **A/B** autobrake
+- **ABC** automatic brightness control
+- **A-BPSK** aviation binary phase shift keying
+- **AC** advisory circular
+- **AC** alternating current
+- **AC2** Dolby surround
+- **A/C** aircraft
+- **ACAA** Air Carrier Association of America
+- **ACAC** air-cooled air cooler
+- **ACAMS** aircraft condition analysis management system
+- **ACARS** aircraft communications addressing and reporting system
+- **ACAS** airborne collision avoidance system (FAA)
+- **ACC** active clearance control
+- **ACC** area control center
+- **ACC** airspace control center
+- **ACD** automatic conflict detection
+- **ACDO** Air Carrier District Office
+- **ACE** actuator control electronics
+- **ACE** advanced certification equipment- 
+- **ACED** Aircraft Certification Electrical Design
+- **ACG** Assessment Compliance Group
+- **ACIPS** airfoil cowl ice protection system
+- **ACF** area control facility
+- **ACK** acknowledgment
+- **ACL** Aviation Common Library
+- **ACMF** airplane condition monitoring function
+- **ACMP** alternating current motor pump
+- **ACMS** aircraft condition monitoring system
+- **ACNSS/** advanced communication/ navigation/surveillance system
+- **ACO** Aircraft Certification Office 
+- **ACP** audio control panel
+- **ACS** active control system
+- **ACS** air cycle system
+- **ACS** audio control system
+- **ACS** Aviation Compliance Specialist 
+- **ACS** Aviation Connected Services 
+- **ACT** active
+- **ACTC** airport traffic control towers
+- **ACTD** advanced concept technology demonstration
+- **ACU** aircraft communications system
+- **ACU** apron control unit
+- **ACU** autopilot control unit
+- **ACU** antenna control unit
+- **AD** airworthiness directives (FAA) (see also SAIB)
+- **A/D** analog-to-digital
+- **ADA** American Dental Association - The computer programming language Ada is named after a person, so only initial capital letter.
+- **ADAHRS** air data, attitude heading reference system
+- **ADAS** automated weather observing system data acquisition system
+- **ADB** airport data base or aviation data base
+- **ADC** air data computer
+- **ADC** Air Defense Command
+- **ADE** application development engineer
+- **ADF** automatic direction finding
+- **ADG** air-driven generator
+- **ADI** attitude director indicator
+- **ADIRS** air data inertial reference system
+- **ADIRU** air data inertial reference unit
+- **ADL** aeronautical data link
+- **ADLP** aircraft data link processor (Mode S)
+- **ADLP** airborne data link protocol
+- **ADM** air data module
+- **ADMS** airline data management system
+- **ADN** aircraft data network
+- **ADO** airline dispatch office
+- **ADO** airport district office
+- **ADP** air driven pump
+- **ADR** address
+- **ADR** Advanced Data Research
+- **ADR** alternative dispute resolution
+- **ADRAS** airplane data recovery and analysis system
+- **ADS** automatic dependent surveillance
+- **ADS** air data system
+- **ADS-A** automatic dependent surveillance- addressed
+- **ADSA** automatic dependent surveillance- automation
+- **ADS-B** automatic dependent surveillance- broadcast
+- **ADS-C** ADS contract
+- **ADSEL** address selective
+- **ADSP** automatic dependent surveillance panel
+- **ADSSG** ADS Study Group (ICAO)
+- **ADSU** automatic dependent surveillance unit
+- **ADT** air data tester
+- **AEA** Aircraft Electronics Association
+- **AECU** audio electronic control unit
+- **AED** ALGOL extended for design
+- **AEEC** Airlines Electronic Engineering Committee (ARINC)
+- **AEO** All engines operative
+- **AEP** ARINC engineering practices
+- **AEP** audio entertainment player
+- **AER** approach end of runway
+- **AERA** automated en route air traffic control
+- **Aero** B-Gan next generation broadband
+- **AES** aircraft earth station (Inmarsat)
+- **AESA** active electronically scanned array
+- **AESS** aircraft environment surveillance system
+- **AEW** airborne early warning
+- **AF** airway facilities
+- **AFC** Aeronautical Frequency Committee (AEEC)
+- **AFC** automatic frequency compensation
+- **AFC** automatic frequency control
+- **AFCAS** automatic flight control augmentation system
+- **AFCS** automatic flight control system
+- **AFD** adaptive flight display
+- **AFD** airport facilities directory
+- **AFD** autopilot flight director
+- **AFD** auxiliary flight display
+- **AFDC** autopilot flight director computer
+- **AFDS** autopilot flight director system
+- **AFDX** avionics full-duplex Ethernet switch
+- **AFEPS** ACARS front-end processing system
+- **AFGCS** automatic flight guidance and control system
+- **AFI** authority format identifier
+- **AFIRS** autonomous flight information collection and reporting system
+- **AFIS** airborne flight information system
+- **AFIS** Airbus in-flight information service
+- **AFIS** automatic flight information service
+- **AFIS** automated flight inspection system
+- **AFM** aircraft flight manual
+- **AFMS** aircraft flight manual supplement
+- **AFMS** automatic flight management system
+- **AFN** air traffic services facilities notification
+- **AFP** Airspace Flow Program
+- **AFP** Anti Finger Print
+- **AFRL** Air Force Research Lab
+- **AFS** additional secondary factors
+- **AFS** aeronautical fixed service (ICAO)
 - AFS automatic flight system
 - AFSK audio frequency shift keying
 - AFSS automated flight service stations
