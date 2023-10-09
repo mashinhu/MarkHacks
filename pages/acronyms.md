@@ -7,6 +7,8 @@ permalink: /acronyms
 
 # PERF Avionics Acronyms
 
+---
+
 ## Table of Contents (by letter)
 
 [a]()
