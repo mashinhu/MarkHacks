@@ -1,0 +1,521 @@
+# PERF Avionics Acronyms
+
+## Table of Contents (by letter)
+
+[a]()
+[b]()
+[c]()
+[d]()
+[e]()
+[f]()
+[g]()
+[h]()
+[i]()
+[j]()
+[k]()
+[l]()
+[m]()
+[n]()
+[o]()
+[p]()
+[q]()
+[r]()
+[s]()
+[t]()
+[u]()
+[v]()
+[w]()
+[x]()
+[y]()
+[z]()
+
+### A
+- 3D, 4D three- or four-dimensional
+- 3G third generation
+- 3GCN third generation cabin network
+- 4096 CODE the octal base, four-digit code used between framing pulses of a reply to identify an aircraft or for general use and emergency codes (XPD)
+- A ampere(s)
+- A autotuned navaid
+- AA Avionics Acronyms
+- AAC aeronautical administration communications
+- AAC airline administrative communications
+- AAIB Air Accident Investigation Branch (UK equivalent of NTSB)
+- AAF airway facilities service
+- AAIPT again aircraft integrated product team
+- AAIU air accident investigation unit
+- AAL above aerodome level
+- AALC autonomous approach landing capability
+- AAMP advanced architecture microprocessor
+- AATT advanced aviation transportation technology
+- AAS advanced automation system (FAA)
+- A/B autobrake
+- ABC automatic brightness control
+- A-BPSK aviation binary phase shift keying
+- AC advisory circular
+- AC alternating current
+- AC2 Dolby surround
+- A/C aircraft
+- ACAA Air Carrier Association of America
+- ACAC air-cooled air cooler
+- ACAMS aircraft condition analysis management system
+- ACARS aircraft communications addressing and reporting system
+- ACAS airborne collision avoidance system (FAA)
+- ACC active clearance control
+- ACC area control center
+- ACC airspace control center
+- ACD automatic conflict detection
+- ACDO Air Carrier District Office
+- ACE actuator control electronics
+- ACE advanced certification equipment- 
+- ACED Aircraft Certification Electrical Design
+- ACG Assessment Compliance Group
+- ACIPS airfoil cowl ice protection system
+- ACF area control facility
+- ACK acknowledgment
+- ACL Aviation Common Library
+- ACMF airplane condition monitoring function
+- ACMP alternating current motor pump
+- ACMS aircraft condition monitoring system
+- ACNSS/ advanced communication/ navigation/surveillance system
+- ACO Aircraft Certification Office 
+- ACP audio control panel
+- ACS active control system
+- ACS air cycle system
+- ACS audio control system
+- ACS Aviation Compliance Specialist 
+- ACS Aviation Connected Services 
+- ACT active
+- ACTC airport traffic control towers
+- ACTD advanced concept technology demonstration
+- ACU aircraft communications system
+- ACU apron control unit
+- ACU autopilot control unit
+- ACU antenna control unit
+- AD airworthiness directives (FAA) (see also SAIB)
+- A/D analog-to-digital
+- ADA American Dental Association - The computer programming language Ada is named after a person, so only initial capital letter.
+- ADAHRS air data, attitude heading reference system
+- ADAS automated weather observing system data acquisition system
+- ADB airport data base or aviation data base
+- ADC air data computer
+- ADC Air Defense Command
+- ADE application development engineer
+- ADF automatic direction finding
+- ADG air-driven generator
+- ADI attitude director indicator
+- ADIRS air data inertial reference system
+- ADIRU air data inertial reference unit
+- ADL aeronautical data link
+- ADLP aircraft data link processor (Mode S)
+- ADLP airborne data link protocol
+- ADM air data module
+- ADMS airline data management system
+- ADN aircraft data network
+- ADO airline dispatch office
+- ADO airport district office
+- ADP air driven pump
+- ADR address
+- ADR Advanced Data Research
+- ADR alternative dispute resolution
+- ADRAS airplane data recovery and analysis system
+- ADS automatic dependent surveillance
+- ADS air data system
+- ADS-A automatic dependent surveillance- addressed
+- ADSA automatic dependent surveillance- automation
+- ADS-B automatic dependent surveillance- broadcast
+- ADS-C ADS contract
+- ADSEL address selective
+- ADSP automatic dependent surveillance panel
+- ADSSG ADS Study Group (ICAO)
+- ADSU automatic dependent surveillance unit
+- ADT air data tester
+- AEA Aircraft Electronics Association
+- AECU audio electronic control unit
+- AED ALGOL extended for design
+- AEEC Airlines Electronic Engineering Committee (ARINC)
+- AEO All engines operative
+- AEP ARINC engineering practices
+- AEP audio entertainment player
+- AER approach end of runway
+- AERA automated en route air traffic control
+- Aero B-Gan next generation broadband
+- AES aircraft earth station (Inmarsat)
+- AESA active electronically scanned array
+- AESS aircraft environment surveillance system
+- AEW airborne early warning
+- AF airway facilities
+- AFC Aeronautical Frequency Committee (AEEC)
+- AFC automatic frequency compensation
+- AFC automatic frequency control
+- AFCAS automatic flight control augmentation system
+- AFCS automatic flight control system
+- AFD adaptive flight display
+- AFD airport facilities directory
+- AFD autopilot flight director
+- AFD auxiliary flight display
+- AFDC autopilot flight director computer
+- AFDS autopilot flight director system
+- AFDX avionics full-duplex Ethernet switch
+- AFEPS ACARS front-end processing system
+- AFGCS automatic flight guidance and control system
+- AFI authority format identifier
+- AFIRS autonomous flight information collection and reporting system
+- AFIS airborne flight information system
+- AFIS Airbus in-flight information service
+- AFIS automatic flight information service
+- AFIS automated flight inspection system
+- AFM aircraft flight manual
+- AFMS aircraft flight manual supplement
+- AFMS automatic flight management system
+- AFN air traffic services facilities notification
+- AFP Airspace Flow Program
+- AFP Anti Finger Print
+- AFRL Air Force Research Lab
+- AFS additional secondary factors
+- AFS aeronautical fixed service (ICAO)
+- AFS automatic flight system
+- AFSK audio frequency shift keying
+- AFSS automated flight service stations
+- AFTN aeronautical fixed telecommunications network
+- AFTRCC Aerospace and Flight Test Radio Coordinating Council
+- AFU artificial feel unit
+- A/G air/ground; air to ground
+- AG Anti glare
+- AGACS automatic A/G communication system
+- AGAE A/G applications engineering
+- AGATE Advanced General Aviation Transport Experiments (NASA)
+- AGCS air-ground communication system
+- AGC automatic gain control
+- AGCOS A/G communication services
+- AGCS air-ground communication systems
+- AGCU auxiliary generator control unit
+- AGDL A/G data link
+- AGI Advanced Ground Instructor
+- AGIS A/G intermediate system
+- AGL above ground level
+- AGR A/G router
+- AGRM air/ground router-regional manager
+- AGS A/G system
+- AGSS ACARS ground system standard (AEEC)
+- AGTS A/G test station
+- AGVS A/G voice sub-network
+- AGW ARTS gateway
+- AHC attitude heading computer
+- AHMS aircraft health monitoring system
+- AHRS attitude heading reference system
+- AI alternative interrogator
+- AI application interface
+- AI area incursion
+- AI artificial intelligence
+- AIA Aerospace Industries Association
+- AIAA American Institute of Aeronautics and Astonautics
+- AIC aeronautical information circular
+- AIDC air traffic services interfacility data communications
+- AIDS aircraft/airborne integrated data system
+- AIED aeronautical industry engineering and development
+- AIEM Airlines International Electronic Meeting (AMC)
+- AIFSS automated international flight service stations
+- AIL aileron
+- AILS airport ILS class
+- AIM airman's information manual
+- AIMS airplane information management system (Boeing 777)
+- AIMS airport information management system
+- AINSC aeronautical industry service communication
+- AIO analog input/output
+- AIP aeronautical information publication
+- AIP analog input
+- AIP Airport Improvement Program
+- AIRAC aeronautical information regulation and control
+- AIRCOM digital air/ground communications service (SITA)
+- AIRMET airman's meteorological information
+- AIRO analog input/reference output
+- AIS aeronautical information service
+- AIS automatic information services (Eurocontrol)
+- AISG Applications Interface Sub-Group (IATA)
+- AIV accumulator isolation valve
+- AJPS AFEPS journal processing system
+- a/l airline
+- A/L autoland
+- ALC airline link control
+- ALC asynchronous link control
+- ALC automatic level control
+- ALMDS airborne laser mine detection system
+- ALPA Air Line Pilots Association
+- ALPS automatic line protection service
+- ALS application layer structure
+- ALT airborn link terminal
+- ALT altitude/alternate
+- ALD HOLD altitude hold mode
+- ALTM altimeter
+- ALTN alternate
+- ALTN alternate (airport)
+- ALTRV altitude reservation
+- ALTS altitude select
+- ALU arithmetic and logic unit
+- AM access module
+- AM amplitude modulation
+- AMASS airport movement area safety system
+- AMC Air Mobility Command
+- AMC auxiliary maintenance computer
+- AMC Avionics Maintenance Conference
+- AMCP aeronautical mobile communications panel
+- AMD advisory map display
+- AME amplitude modulation equivalent
+- AMI airline modifiable information
+- AML approved model list
+- AMLCD active matrix liquid crystal display
+- AMIS aircraft management information system
+- AMOSS airline maintenance and operation support system
+- AMP audio management panel
+- AMP Avionics Modernization Program
+- AMPL amplifier
+- AMS ARINC maintenance service
+- AMS apron management service
+- AMS avionics management service
+- AMS acquisition management system
+- AMS(R)S aeronautical mobile satellite (route) service
+- AMSS aeronautical mobile satellite service
+- AMTOSS aircraft maintenance task oriented support system
+- AMTS aeronautical message transfer service
+- AMU audio management unit
+- AMU ACARS/avionics management unit
+- AMUX audio multiplexer
+- A/N alphanumeric
+- ANA All Nippon airways
+- ANC Air Navigation Commission (ICAO)
+- ANDC airport and navigation data compiler
+- ANFR Agence Nationale des Frequences
+- ANFS aircraft network and file server
+- ANICS Alaskan NAS Interfacility Communication
+- ANLP ARINC network layer protocol
+- ANP actual navigation performance
+- ANP air navigation plan/performance
+- A-NPA advanced notice of proposed amendment
+- ANR active noise reduction
+- ANS air navigation system
+- ANS ambient noise sensor
+- ANSI American National Standards Institute
+- ANSIR advanced navigation system inertial reference
+- ANSP air navigation service providers
+- ANSU avionics network server unit
+- ANTS aviation's new testing suite
+- ANTC advanced networking test center
+- AO acronymic obfuscation
+- AOA ACARS over AVLC
+- AOA Office of the Administrator (FAA)
+- AOA angle of attack
+- AOA angle of arrival
+- AOAS advanced oceanic automation system
+- AOC airport obstruction chart
+- AOC Airline Operational Control Center
+- AOC airport operational communications
+- AOC aircraft operational control
+- AOC airline operational control
+- AOC aeronautical operational control
+- AOC airline operations center
+- AOCC airline operations control center
+- AODB airport operational database
+- AODC age of data, clock (GPS)
+- AODE age of data, ephemeris (GPS)
+- AOG aircraft on ground
+- AOHE air/oil heat exchanger
+- AOM aircraft operating manual
+- AOP analog output
+- AOP aeronautical OSI profile
+- AOP airline operational procedure
+- AOPA Aircraft Owners and Pilots Association
+- AOR area of responsibility
+- AOR Atlantic Ocean region
+- AOR-E Atlantic Ocean region-east
+- AOR-W Atlantic Ocean region-west
+- A&P airframe and power plant
+- AP access point (WiFi)
+- AP airport location (ACARS/AFEPS)
+- A/P autopilot
+- APA autopilot amplifier
+- APA Allied Pilots Association
+- APANPIRG ASIA/PAC Air Navigation Planning & Implementation Regional Group
+- APB auxiliary power breaker
+- APB acquisition program baseline
+- APC aeronautical passenger communication
+- APC aeronautical public correspondence
+- APC autopilot computer
+- APCO Association of Public Safety Communications Officials
+- APFA Association of Professional Flight Attendants
+- APFDS autopilot flight director system
+- APEX application/executive software
+- API application programming interface
+- APIRS attitude and positioning inertial reference system
+- APIM ARINC IA project initiation/modification
+- APL Applied Physics Laboratory
+- APLCs airport performance laptop computers
+- APM approach path monitor
+- APM autopilot module
+- APMS automated performance measurement system
+- APN ARINC packet network
+- APP approach control
+- APPR approach
+- APR approach
+- APR actual performance reserve
+- APRL ATN profile requirement list
+- APSSA appliance preliminary system safety assessment
+- APT automatic pitch trim
+- APU auxiliary power unit
+- APUC auxiliary power unit controller
+- APX application/executive software
+- AQF avionics qualification facility
+- AQP advanced qualification program
+- AQP avionics qualification procedure/program
+- A-QPSK aeronautical quadrature phase shift keying
+- AQS advanced quality system
+- ARAC Aviation Rulemaking Advisory Committee (FAA)
+- ARB arbitrary waveform generator
+- ARC Audio Routing and Control
+- ARD advanced requirement definition
+- ARDEP analysis of research & development in Eurocontrol programs
+- ARF airline risk factor
+- ARINC Aeronautical Radio, Incorporated
+- ARM Advanced Risc Machines
+- ARMC area regional maintenance center
+- ARP air data reference panel
+- ARP Address Resolution Protocol
+- ARTAS ATM surveillance tracker and server
+- ARTCC Air Route Traffic Control Center
+- ASA Aircraft Surveillance Applications
+- ASAS aviation safety analysis system
+- ASAS aircraft separation assurance system (AEEC)
+- ASC aircraft system controller
+- ASC aural synthesizer card
+- ASCII American standard code for information interchange
+- ASCB avionics standard communication bus
+- ASCPC air supply and cabin pressure controllers
+- ASCS air supply control system
+- ASCU anti-skid control unit
+- ASD aircraft situation display
+- ASDAR aircraft-to-satellite data relay
+- ASDB aircraft specific database
+- ASDE airport surface detection equipment
+- ASDEX airport surface detection equipment, model X
+- ASDL aeronautical satellite data link
+- ASDR airport surface detection radar
+- ASE altimetry system error
+- ASECNA Agency for Security of Aerial Navigation in Africa and Madagascar
+- ASG ARINC signal gateway
+- ASI airspeed indicator
+- ASI
+- ASIC application specific integrated circuit
+- ASL above sea level
+- ASM airspace management
+- ASM autothrottle servo motor
+- ASME American Society of Mechanical Engineers
+- A-SMGCS advanced surface movement guidance and control systems
+- ASOR Allocating Safety Objectives and Requirements
+- ASOS automated surface observation system
+- ASP ACARS sub-network protocol
+- ASP altitude set panel
+- ASP aeronautical fixed service systems planning (AFS)
+- ASP acquisition strategy paper
+- ASP arrival sequencing program
+- ASPP application specific programmable processor
+- ASR airport surveillance radar
+- ASRAAM advanced short range air-to-air missile
+- ASRS aviation safety reporting system
+- ASSA appliance system safety assessment
+- ASSAP airborne surveillance and separation assurance processing
+- ASSTC aerospace simulation and systems test center
+- ASSV alternate source selection valve
+- ASTA airport surface traffic automation
+- ASTERIX all purpose structured Eurocontrol Radar information exchange
+- ASTF airspace system task force
+- ASTM American Society for Testing and Materials
+- ASTOR Airborne Stand-Off Radar (UK)
+- ASVI avionics serial video interface
+- ASV alternate servo valve
+- AT air transport
+- AT at an altitude
+- A/T autothrottle
+- ATA actual time of arrival
+- ATA Air Transport Association
+- ATA Air Transport Association of America
+- ATAS aviation traffic and application software
+- ATC advanced technology center
+- ATC air traffic control
+- ATCA Air Traffic Control Association
+- ATCBI ATC beacon interrogator
+- ATCC area and terminal control center
+- ATCRBS ATC radar beacon system
+- ATCSS ATC signaling system
+- ATCT air traffic control tower
+- ATDL air transport data link
+- ATE automated test equipment
+- ATE automatic test equipment
+- ATE avionics test and evaluation
+- ATFM air traffic flow management
+- ATG advanced concept technology demonstration
+- ATHR autothrust system
+- ATSRAC aging transport systems rulemaking advisory committee
+- ATI airborne tracker illuminator
+- ATIDS airport surface target identification system/service
+- ATIS automatic terminal information service
+- ATIS airport traffic information system
+- ATIS automated terminal information service
+- ATIS-B automatic terminal information service - broadcast
+- ATK along track waypoint
+- ATL autothrottle limit
+- ATLAS abbreviated test language for avionics systems
+- ATM air traffic management
+- ATM asynchronous transfer mode
+- ATMAS ATM automation system
+- ATMB Air Traffic Management Bureau
+- ATM DSS ATM decision support service
+- ATMS area navigation, test and management services
+- ATN aeronautical telecommunication network
+- ATNE ATN engineering
+- ATNP ATN panel
+- ATO air traffic operations
+- ATO Air Traffic Organization (FAA)
+- ATOP advanced technologies and oceanic procedures
+- ATP acceptance test procedure/plan
+- ATPAC Air Traffic Procedures Advisory Committee (FAA)
+- ATR air transport radio: ARINC form-factor/standard case dimensions; 1
+- ATR acceptance test report
+- ATR air transport racking
+- ATS air traffic services
+- ATS air turbine starter
+- ATS autothrottle system
+- ATSC air traffic services communication
+- AT/SC autothrottle/speed control
+- ATSGF air traffic services geographic filter
+- ATSMP air traffic services message processor
+- ATSO air traffic services organization
+- ATSP air traffic services provider
+- ATSRAC Aging Transport Systems Rulemaking Advisory Committee (FAA)
+- ATSU air traffic services unit
+- ATWR apron tower (and operator)
+- AUSRIRE All Union Scientific Research Institute of Radio Equipment: CIS (former Soviet) agency
+- AUX auxiliary
+- AVC aviation VHF car rental availability (messages)
+- AVH aviation VHF hotel availability (messages)
+- AVLAN avionics local area network
+- AVLC aviation VHF link control
+- AVM airborne vibration monitor
+- AVN avionics
+- AVOD audio and video channels on demand
+- AVOL aerodrome visibility operational level
+- AVPAC aviation VHF packet communications
+- AVS aviation VHF seat availability (messages)
+- AVS avionics management system
+- AWACS airborne warning and control system
+- AWAS automated weather advisory station
+- AWG American wire gauge
+- AWIN advanced weather information system
+- AWIN aviation weather information
+- AWIPS advanced weather interactive processing system
+- AWLU aircraft wireless LAN unit
+- AWM auto warning mixer
+- AWO all weather operations
+- AWOP AWO panel
+- AWOS automated/airport weather observing system
+- AWR aviation weather research
+- AWR Aviation Widget Resource
+- AZ azimuth: angular measurement in horizontal plane
