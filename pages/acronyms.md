@@ -3,7 +3,9 @@ layout: default
 title: PERF Acronyms
 category: acronyms
 permalink: /acronyms
+image: HondaJet-Avionics-Garmin-G3000-1454420998.jpg
 ---
+
 
 # PERF Avionics Acronyms
 
