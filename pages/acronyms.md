@@ -1,7 +1,7 @@
 ---
 layout: category
 title: PERF Acronyms
-category: resources
+category: acronyms
 permalink: /acronyms
 ---
 
