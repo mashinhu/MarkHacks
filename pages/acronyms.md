@@ -3,9 +3,9 @@ layout: default
 title: PERF Acronyms
 category: acronyms
 permalink: /acronyms
-image: HondaJet-Avionics-Garmin-G3000-1454420998.jpg
 ---
 
+![Garmin Flight Deck](../assets/img/HondaJet-Avionics-Garmin-G3000-1454420998.jpg)
 
 # PERF Avionics Acronyms
 
@@ -529,3 +529,68 @@ image: HondaJet-Avionics-Garmin-G3000-1454420998.jpg
 - **AWR** aviation weather research
 - **AWR** Aviation Widget Resource
 - **AZ** azimuth: angular measurement in horizontal plane
+
+### B
+- **BAW** below altitude weather (GWX80)
+- **BBML** broadband multi-link
+- **BC** back course
+- **BDA** bomb damage assessment
+- **BDMIS** business data management and invoicing system
+- **BDS** comm-B designation subfield
+- **BEA** Bureau d'Enquetes Accidents: French equivalent of NTSB
+- **BEP** back-end processor
+- **BEPMS** BEP management system
+- **BER** bit error rate
+- **BFE** buyer furnished equipment
+- **BFO** beat frequency oscillator
+- **BFO** blazing flash of the obvious (DOD)
+- **BGARS** basic general aviation research simulator
+- **BGI** bus grant inhibit
+- **BGP** border gateway protocol
+- **BI** burn-in
+- **BiGs** bilingual ground station (ACARS and VDL Mode 2)
+- **Binary** base-2 counting system
+- **BIS** boundary intermediate system
+- **BISMS** BIS management system
+- **BIST** built-in self-test
+- **BiSync** binary synchronous control
+- **BIT** built-in test
+- **Bit** a binary digit
+- **BITE** built-in test equipment
+- **BIU** bus interface unit
+- **BLK** block/black
+- **BMC** biphase mark coding
+- **BMV** brake metering valve
+- **B-NAV** basic area navigation
+- **BNR** binary
+- **BNS** boundary notification system (squitters)
+- **BOC** binary offset carrier
+- **BOC** bottom of climb
+- **BOD** bottom of descent
+- **BOOL** BOOLean logic software layer
+- **BOP/COP** bit-oriented protocol/character-oriented protocol
+- **BP** bite processor
+- **BPCU** bus power control unit
+- **BPL** broadband over powerlines
+- **BPS** bits per second
+- **BPSK** binary phase shift keying
+- **BR** bridge
+- **BRG** bearing
+- **BRI** basic rate interface
+- **BRNAV** basic area navigation
+- **BRT** brightness
+- **BSN** backbone sub-network
+- **BSC** binary synchronous communication
+- **BSCU** brake system control unit
+- **BSP** board support package
+- **BSU** beam steering unit
+- **BSU** bypass switch unit
+- **BTB** bus tie breaker
+- **BTMU** brake temperature monitor unit
+- **BU** backup
+- **BUEC** BU emergency communications
+- **BUFR** binary universal form for communication representation
+- **BWAN** BU wide area network
+- **Byte** a grouping of eight bits
+
+### C
