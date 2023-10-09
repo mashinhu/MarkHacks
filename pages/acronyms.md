@@ -594,3 +594,699 @@ permalink: /acronyms
 - **Byte** a grouping of eight bits
 
 ### C
+- **C2** command and control
+- **C41** computers and intelligence
+- **CA** conflict alert
+- **CAA** Civil Aviation Administration
+- **CAA** Civil Aviation Authority
+- **CAAC** Civil Aviation Administration of China
+- **CAASD** Center for Advanced Aviation System Development
+- **CAB** Civil Aeronautics Board
+- **C&C** command and control (also C2)
+- **C&W** control and warning
+- **CAAS** common avionics architecture system
+- **CAASD** Center for Advanced Aviation System Development (Mitre Corp.)
+- **CAC** caution advisory computer
+- **C/A code** course acquisition code (GPS)
+- **CACP** cabin area control panel
+- **CAD** computer-aided design
+- **CADAG** Communications, Automation and Data Link Applications Group
+- **CADC** central air data computer (an analog system)
+- **CADS** centralized automatic dependent surveillance
+- **CAE** component application engineer
+- **CAGE** commercial avionics GPS engine
+- **CAH** cabin attendant handsets
+- **C4ISR** computers, intelligence, surveillance and reconnaissance
+- **CAI** caution annunciator indicator
+- **CAL** China Airlines
+- **CALSEL** variation of SELCAL system
+- **CAM** computer-aided manufacturing
+- **CAM - civil aeronautics manual**
+- **CAN** controller area network
+- **CANbus** control area network
+- **CANSO** Civil Air Navigation Services Organization
+- **CAOC** Combined Air Operations Center
+- **CAP** Civil Air Patrol
+- **CAP** Civil Aviation Publication (UK CAA)
+- **CAPA** Coalition of Airline Pilots Association
+- **CAPS** commercial airliner protection system
+- **CARE** cooperative actions on R&D in Eurocontrol
+- **CAS** crew alerting system
+- **CASA** controller automated spacing aid
+- **CASE** computer-aided software engineering
+- **CASR** Civil Aviation Safety Regulations
+- **CAR** civil air regulation 
+- **CAT** category
+- **CAT** clear air turbulence
+- **CAT** computer aided testing
+- **CAT** categories (I, II, IIIa/b/c) approach
+- **CATS** Common Aviation Testing Support
+- **CATM** Common Automated Test Module
+- **CAVS** CDTI assisted visual separation
+- **CB** control block (e.g., data structure)
+- **CBA** cost/benefit analysis
+- **CBT** computer-based training
+- **CC** connection confirm
+- **CCA** circuit card assembly
+- **CCB** converter circuit breaker
+- **CCB** configuration control board
+- **CCCS** cabin climate control system
+- **CCD** category class diagram
+- **CCD** cursor control device
+- **CCD** charged coupled device
+- **CCD** coherent change detection
+- **CCD VNAV** Climb / Cruise / Descent Vertical Navigation
+- **CCGI** Common Configurable Graphical Interface
+- **CCIR** International Radio Consultative Committee
+- **CCITT** Consultative Committee International Telephone and Telegraph
+- **CCP** consolidated control panel
+- **CCS** cabin communication system
+- **CCS** common core system
+- **CCTV** closed-circuit television
+- **CD** carrier detect
+- **CD** chrominance difference
+- **CD** compact disk
+- **CDA** continuous descent approach arrival
+- **CDA** coordinating design authority
+- **CDAM** centralized data acquisition module
+- **CDAM** common data acquisition module
+- **CDG** configuration database generator
+- **CDI** course deviation indicator
+- **CDL** certification data list
+- **CDM** collaborative decision-making
+- **CDMS** CDM system
+- **CDMS** control and data management system
+- **CDP** continuous data program
+- **CDP** control and display processing
+- **CDR** critical design review
+- **CDS** central dispatch system
+- **CDS** cockpit display systems
+- **CDS** common display system
+- **CDSS** cockpit door surveillance system
+- **CDT** controlled departure time
+- **CDT** compressor discharge temperature
+- **CDTI** cockpit display of traffic information
+- **CDU** control display unit
+- **CDV** compressed digital video
+- **CEC** cooperative engagement capability
+- **CEI** cabin equipment interfaces
+- **CEPT** Conference Europeene des Postes et Telecommunications
+- **CF** change field
+- **CFDIU** centralized fault display interface unit
+- **CFDS** central fault display system
+- **CFDU** configurable file data unit
+- **CFI** Certified Flight Instructor
+- **CFII** Certified Flight Instructor Instrument
+- **CFIG** Certified Flight Instructor Glider
+- **CFIT** controlled flight into terrain
+- **CFM** cubic feet per minute
+- **CFM** configuration management
+- **CFMU** central flow management unit
+- **CFS** cabin file server
+- **CG** center of gravity
+- **CHI** computer/human interface
+- **CHIS** center hydraulic isolation system
+- **CHT** cylinder head temperature
+- **CI** configuration item
+- **CI** cabin interphone
+- **CID** category interaction diagram
+- **CIDIN** common ICAO data interchange network
+- **CIDS** cabin interphone distribution system
+- **CIE** Commission Internationale de I ’Eclairage
+- **CIGS** copper-indium-gallium-diselenide
+- **CIP** capital investment plan
+- **CIP** convergence & implementation program (Eurocontrol)
+- **CIS** common information services
+- **CIS** corporate information system
+- **CLB** climb
+- **CLD** complex logic device
+- **CLDVVP** CLD validation and verification plan
+- **CLNP** connectionless network protocol
+- **CLNS** connectionless network service
+- **CLTP** connectionless mode transport protocol
+- **CM** context/configuration management
+- **CMC** central maintenance computer
+- **CMCF** CMC function
+- **CMCS** CMC system
+- **CMD** command
+- **CMF** common message format
+- **CMGT** contract management
+- **CMM** capability maturity model
+- **CMM** component maintenance manual
+- **CMM** common mode monitor
+- **CMN** control motion noise
+- **CMOS** complementary metal oxide semiconductor
+- **CMP** configuration management plan
+- **CMS** cabin management system
+- **CMU** communication management unit
+- **CND** can not duplicate
+- **CNDB** customized navigation database
+- **CNES** Centre National d’Etudes Spatiales
+- **CNI** communications, navigation and identification
+- **C/NO** carrier-to-noise density ratio
+- **CNP** com/nav/pulse
+- **CNS** communication, navigation surveillance
+- **CNS/ATM** communications, navigation, surveillance/air traffic management
+- **CNSI** com/nav/serveillance/identification
+- **CNUS** cabin network server unit
+- **COA** certificate of authorization
+- **CODEC** coder/decoder
+- **COM** cockpit operating manual
+- **COM** communications
+- **COMINT** communications intelligence
+- **COMINT/DF** COMINT direction finding
+- **COMM** communications
+- **COM/MET/OPS** communications/meterological/operations
+- **CON** continuous
+- **COMSAT** Communications Satellite Corp.
+- **CONOPS** concept of operations
+- **CONUS** continental United States
+- **COP** character-oriented protocol
+- **COS** continued operational safety 
+- **COTP** connection-oriented transport protocol
+- **COTR** contracting officer’s technical representative
+- **COTS** commercial-off-the-shelf
+- **CP** central processor
+- **CP** conflict probe
+- **CP** control panel
+- **CPA** closest point of approach
+- **CPA** Coalition of Airline Pilots Associations
+- **CPA** collision prediction and alerting
+- **CPC** controller-pilot communications
+- **CPC** cabin pressure controller
+- **CPC** cursor position control
+- **CPCI** computer program configuration item
+- **CPCS** cabin pressure control system
+- **CPDLC** controller-pilot data link communications
+- **CPE** circular position error
+- **CPI** continuous process improvement
+- **CPLD** complex programmable logic device
+- **CPM** core processing module
+- **CPM** critical path method
+- **CPS** cabin pressure sensor
+- **CPS** central processing system
+- **CPU** central processing unit
+- **CQI** component quality initiative
+- **C/R** command/response
+- **CR** change of request
+- **CR** contrast ratio
+- **CR** connection request
+- **CRA** conflict resolution advisory
+- **CRAF** Civil Reserve Air Fleet
+- **CRC** cyclic redundancy checking/code
+- **CRD** current routing domain
+- **CRDA** cooperative research and development agreement
+- **CRE**  Compliance Report Electrical
+- **CRG** Cockpit Reference Guide
+- **CRM** crew/cockpit resource management
+- **CRPA** controlled reception pattern antenna
+- **CRISD** computer resources integrated support document
+- **CRISTAL** CoopeRative Validation of Surveillance Techniques and Applications
+- **CRM** collision risk model
+- **CRM** crew resource management
+- **CRMA** code reuse multiple access
+- **CRR** cutover readiness review
+- **CRS** course
+- **CRT** cathode ray tube
+- **CRZ** cruise
+- **CS** common service
+- **CS** commercial service
+- **CSA** Conflict Situational Awareness
+- **CSC** common signaling channel
+- **CSC** cargo system controller
+- **CSC** computer software component
+- **CSC** cruise speed control (AFCS)
+- **CSCI** computer software configuration item
+- **CSD**  Compliance Summary Document
+- **CSF** command/status frame
+- **CsLEOS** real-time operating system (OS)
+- **CSMA** carrier sense multiple access
+- **CSMA/CD** carrier sense multiple access with collision detection
+- **CSCP** cabin system control panel
+- **CSDB** commercial standard data bus
+- **CSDS** cargo smoke detector system
+- **CSEU** control systems electronics unit
+- **CSMM** crash survivable memory modules
+- **CSMU** cabin system management unit
+- **C/SOIT** communications/surveillance operational implementation team
+- **CSP** compact smart probe
+- **CSPA** closely spaced parallel approach
+- **CSS** cabin systems subcommittee
+- **CSTA** chief scientific and technical advisors (FAA)
+- **CSTAC** Commercial Space Transportation Advisory Committee (FAA)
+- **CSU** channel service unit
+- **CSU** configuration strapping unit
+- **CSU** computer software unit
+- **CTA** control area
+- **CTA** controlled time of arrival
+- **CTAF** common traffic advisory frequency
+- **CTAI** cowl thermal anti-icing
+- **CTAS** center TRACON automation system
+- **CTC** cabin temperature controller
+- **CTD** cabin training device
+- **CTL** control
+- **CTMO** centralized air traffic flow management organization
+- **CTOL** conventional takeoff and landing
+- **CTR** control zone
+- **CTR** center
+- **CTRD** configuration test requirements document
+- **CTRL** control
+- **CTS** clear to send
+- **CTS** conformance test suite
+- **CTS/TCTS** combat training system/tactical combat training system
+- **CTU** cabin telecommunications unit
+- **CU** combiner unit (HUD)
+- **CU** channel utilization
+- **CU** control unit
+- **CUG** closed user group
+- **C/UT** code/unit test
+- **CUTE** common use terminal equipment
+- **CV/DFDR** cockpit voice and digital flight data recorder
+- **CVR** cockpit voice recorder
+- **CVS** combined vision system (SVS + EVS)
+- **CVRCP** cockpit voice recorder control panel
+- **CW** continuous wave
+- **CW** clockwise
+- **CWI** continuous wave interference
+- **CWP** central weather processor
+- **CWP** controller/ed working position
+- **CWS** control wheel steering
+- **CXP** connext protocol
+
+### D
+- **D8PSK** differential 8-phase-shift keying
+- **DA** descent advisor
+- **DA** design authority
+- **DA** digital-to-analog
+- **DABS** discrete addressable beacon system
+- **DAC** digital-to-analog converters
+- **DADC** digital air data computer
+- **DADS** digital air data system
+- **DAISS** digital airborne intercommunication switching system
+- **DAL** design assurance level
+- **DAP** digital service access product
+- **DAP** direct action penetration
+- **DAP** download of aircraft parameter
+- **DAPs** downlink aircraft parameters
+- **DAR** designated airworthiness representative
+- **DAR** data access recorder
+- **DARC** direct access radar channel
+- **DARP** dynamic aircraft route planning
+- **DARPA** Defense Advanced Research Projects Agency
+- **DAS** digital audio subcommittee
+- **DAS** designated alteration station
+- **DAS** distributed aperture system
+- **DASS** defensive aids sub-system
+- **DAT** high level Data Abstraction layer
+- **D-ATIS** digital automatic terminal information service
+- **DAU** data acquisition unit
+- **DB** database
+- **dB** decibel
+- **dBA** dB adjusted
+- **DBI** downlink block identifier
+- **dBI** dB referenced to an isotropic antenna
+- **dBI** decibels above isotopic circular
+- **dBM** dB below 1 milliwatt
+- **DBS** direct broadcast satellite
+- **DBU** database unit
+- **DBU** dial backup
+- **dBW** dB-watts or referenced to 1 watt
+- **DC** disconnect confirm
+- **DC** direct current
+- **DCAS** digital control audio system
+- **DCD** double channel duplex
+- **DCE** data communications equipment
+- **DCGF** data conversion gateway function
+- **DCK** dual concentric knob
+- **DCL** departure clearance (European)
+- **DCL** data concentrator library
+- **DCM** digital coherent mute
+- **DCMF** data communication management function
+- **DCMS** data communication management system
+- **DCN** data concentrator network
+- **DCN** document/drawing/design change notice
+- **DCP** data communication process
+- **DCP** display control panel
+- **DCS** double channel simplex
+- **DCU** data concentration unit
+- **DCV** directional control valve
+- **DD** data delivery
+- **DDA** digital differential analyzer
+- **DDD** dual disk drive
+- **DDI** display data interface
+- **DDM** difference in depth of modulation
+- **DDP** declarations of design and performance
+- **DDR** draft document review
+- **DDR** double data rate
+- **DDRMI** digital distance radio magnetic indicator
+- **DDS** data link delivery of expected taxi clearances
+- **DDS** direct digital synthesizer
+- **DDT** downlink data transfer
+- **DECCA** a navigation system widely used by European shipping
+- **DER** designated engineering representative
+- **DER** departure end of runway
+- **DERA** Defence Research and Evaluation Agency
+- **DEU** display electronics unit
+- **DF** direction finding
+- **DFA** direction finding antenna
+- **DFCS** digital flight control system
+- **DFDAF** digital flight data acquisition function
+- **DFDAMU** digital flight data acquisition management unit
+- **DFDAU** digital flight data acquisition unit
+- **DFDR** digital flight data recorder
+- **DFDU** digital flight data unit
+- **DFGC** digital flight guidance computer
+- **DFGS** digital flight guidance system
+- **DFH** diagnostic/fault/health
+- **DFIDU** dual function interactive display unit
+- **DFIU** digital flight instrument unit
+- **DFS** digital frequency select
+- **DFS** Deutsche Flugsicherung GmbH (Germany)
+- **DfT** Department for Transport (UK)
+- **DFU** digital function unit
+- **DG** directional gyro
+- **DGNSS** differential global navigation satellite system
+- **DGPS** differential global positioning system
+- **DH** decision height
+- **DHCP** dynamic host configuration protocol
+- **DHS** Department of Homeland Security
+- **DI** data interrupt
+- **DIFAX** digital facsimile
+- **DIGNU** deeply integrated guidance and navigation unit
+- **DIP** data interrupt program
+- **DIP** dual in-line package
+- **DIR** director
+- **DIRCM** direct infrared countermeasures
+- **DIR/INTC** direct intercept
+- **DISC** disconnect
+- **DISCH** discharge
+- **DIST** distance
+- **DITS** data information transfer system
+- **diurnal** day or night
+- **DL** data link
+- **DLAP** data link application processor
+- **DLC** data link control
+- **DLCI** data link control identifier
+- **DLE** data link entity
+- **DLK** data link (AEEC)
+- **DLK_Users** data link users forum
+- **DLL** data link layer
+- **DLM** data link management unit
+- **DLME** data link and message engineering
+- **DLMS** data link management system
+- **DL/MSU** data loader/mass storage unit
+- **DLORT** data link operational requirements team
+- **DLP** data link processor
+- **DLS** data link service/system
+- **DLU** download unit
+- **DM** disconnected mode
+- **DMA** direct memory access
+- **DMD** digital memory device
+- **DME** distance measuring equipment
+- **DME/N** DME normal
+- **DME/P** DME precision
+- **DMIR** designated manufacturing inspection representative 
+- **DMM** data memory module
+- **DMS** debris monitoring sensor
+- **DMS** data link management system
+- **DMU** data management unit
+- **DoD** Department of Defense
+- **DOP** Dilution of precision
+- **D-OTIS** digital operational terminal information service
+- **DoT** Department of Transportation
+- **DOTS** dynamic ocean tracking system
+- **DPI** dots per inch
+- **DPR** dual port RAM
+- **DPSK** differential phase shift keying
+- **DR** dead reckoning
+- **DR** deduced reckoning
+- **DRAM** dynamic random access memory
+- **DREAMS** disaster response and emergency medical services
+- **DRER** designated radio engineering representative (FAA)
+- **DRN** document release notice
+- **DRVSM** domestic reduced vertical separation minimum
+- **DSAD** digital service access device
+- **DSARC** defense system acquisition review cycle
+- **DSB** double side band
+- **DSB-AM** DSB, full carrier digital amplitude modulation
+- **DSDU** data signal display unit
+- **DSF** display system function
+- **DSP** data link service provider
+- **DSP** departure sequencing program
+- **DSP** digital signal processor
+- **DSP** display select panel
+- **DSP** domain specific part
+- **DSPDRV** display driver
+- **DSR** display system replacement
+- **DSS** decision support services
+- **DSU** data signaling unit
+- **DT&E** development test and evaluation
+- **DTD** data terminal display
+- **DTD** document type definition
+- **DTE** data terminal equipment
+- **DTED** digital terrain evaluation data
+- **DTG** distance-to-go
+- **DTK** desired track
+- **DTM** demonstration test milestone
+- **DTMF** dual tone multifrequency (telephone)
+- **DTN** delay tolerant network
+- **DTP** distributed targeting processor
+- **DTPDU** data protocol data unit
+- **D-TOC** digital transfer of communications
+- **DTRS** data transceiver router server
+- **DTS** digital theatre systems
+- **DTU** data transfer unit
+- **DU** display unit
+- **DUAT** direct user access terminal
+- **DUATS** direct user access terminal system
+- **DUST** dual-use science and technology
+- **DUT** device under test
+- **DVD** digital video disc
+- **DVF** demonstration and validation facility
+- **DVM** digital voltmeter
+- **DVMC** digital video map computer
+- **DVOR** Doppler very high-frequency Omni-directional range
+- **DVRS** digital voice recorder system
+- **DWAN** direct WAN
+
+### E
+- **EAA** Experimental Aircraft Association
+- **EACARS** enhanced ACARS
+- **EAD** engine alert display
+- **EAD** European AIS data base (Eurocontrol)
+- **EADI** electronic attitude director indicator
+- **E&E** electronics and equipment
+- **EAFR** enhanced airborne flight recorder
+- **EAI** engine anti-ice
+- **EAL** emergency autoland
+- **EAL** evaluation assurance level
+- **EAL-7** evaluation assurance level-7
+- **EANPG** European Air Navigation Planning Group
+- **EAP** engine alert processor
+- **EAROM** electrically alterable ROM
+- **EARTS** en route automated radar tracking system
+- **EAS** equivalent airspeed
+- **EASA** European Aviation Safety Agency
+- **EASIE** enhanced ATM and Mode S implementation in Europe
+- **EASy** enhanced avionics system
+- **EATCHIP** European air traffic control harmonization & integration program
+- **EATMS** European ATM System (Eurocontrol)
+- **EATRADA** European ATM Research and Development Association
+- **EAU** engine acquisition unit
+- **EBR** extended bit rate
+- **EC** European Commission
+- **ECAC** European Civil Aviation Conference
+- **ECACNAV** Eurocontrol navigation Web site
+- **ECAM** electronic caution alert module
+- **ECB** electronic circuit breaker
+- **ECC** error correcting code
+- **ECEF** earth-centered, earth-fixed
+- **ECL** emitter coupler logic
+- **eCM** equipment conditioning monitoring
+- **ECM** engineering coordination memorandum
+- **ECMP** electronic component management system
+- **ECN** engineering change notice
+- **ECO** engineering change order
+- **ECP** EICAS control panel
+- **ECP** engineering change proposal
+- **ECS** engineering compiler system
+- **ECS** environmental control system
+- **ECS** event criterion subfield
+- **ECSL** left environmental control system card
+- **ECSMC** ECS miscellaneous card
+- **ECSR** right environmental control system card
+- **ECU** electronic control unit
+- **ED** EICAS display
+- **E/D** end-of-descent
+- **EDA** electronic design automation
+- **EDAC** error detection and correction
+- **EDARC** enhanced direct access radar channel
+- **EDC** error detection and correction
+- **EDDS** electronic document distribution service
+- **EDI** electronic data interchange
+- **EDI** engine data interface
+- **EDIF** engine data interface function
+- **EDIS** emergency digital information service
+- **EDIU** engine data interface unit
+- **EDM** emergency descent mode
+- **EDMS** electronic data management system
+- **EDO VNAV** enhanced descent-only vertical navigation
+- **EDP** electronic data processing
+- **EDP** engineering development pallet
+- **EDP** engine driven pump
+- **EDR** Engineering Document Release (Findpart)
+- **EDS** embedded diagnostic system
+- **EDS** explosive detection system
+- **EDU** electronic display unit
+- **EDU** electronic display and processing unit
+- **EE** electrical engineer
+- **EE** electronics equipment
+- **EEAS** enhanced en-route automation system
+- **EEC** Eurocontrol Experimental Center
+- **EEC** electronic engine control (also used: EECU)
+- **EEPROM** electrical erasable programmable ROM (read only memory)
+- **EEU** ELMS electronics unit
+- **EFB** electronic flight bag
+- **EFC** expected further clearance
+- **EFD** electronic flight display
+- **EFDAS** European logical flight data server (Eurocontrol)
+- **EFDP** European flight data processing (Eurocontrol)
+- **EFIC** electronic flight instrument controller
+- **EFIP** electronic flight instrument processor
+- **EFIS** electronic flight instrument system
+- **EFIS CP** EFIS control panel
+- **EGIs** embedded GPS/INS
+- **EGIHO** expedited ground-initiated handoff
+- **EGNOS** European Geostationary Overlay System
+- **EGP** exterior gateway protocol
+- **EGPWS** enhanced ground proximity warning system
+- **EGT** exhaust gas temperature
+- **EHF** extremely high frequency
+- **EHSI** electronic horizontal situation indicator
+- **EHV** electro-hydraulic valve
+- **EIA** Electronic Industries Association
+- **EIA** Electrical Institute of America
+- **EICAS** engine indication and crew alert system
+- **EICASC** EICAS controls
+- **EIPI** extended initial protocol identifier
+- **EIRP** earth incident radiated power
+- **EIRP** effective isotropic radiation power
+- **EIS** electronic instrument system
+- **EIS** engine indication system
+- **EIS** environmental impact statement
+- **EISA** extended industry standard architecture
+- **EIU** electronic interface unit
+- **ELB** electronic logbook
+- **ELEC** electrical
+- **ELM** extended length message
+- **ELMS** electrical load management system
+- **ELS** electronic library system
+- **ELT** emergency locator transmitter
+- **EM** element manager
+- **EM** electromagnetic
+- **EMATS** endurance management air traffic system
+- **EMC** electromagnetic compatibility
+- **EMC** entertainment multiplexer controller
+- **EMD** engineering, manufacturing and development
+- **EMD** electronic map display
+- **EMER** emergency
+- **EMI** electromagnetic interference
+- **EMIF** external memory interface
+- **EMMC** embedded multi-media controller
+- **EMS** emergency medical services
+- **EMS** engine management system
+- **EMU** expansion module unit
+- **ENG** engine
+- **ENGAGE** enhanced navigation with garmin's avionic graphic engine - plane simulator.
+- **ENOC** engineering network operations center
+- **E/O** engine-out
+- **EOD** end of day
+- **EODAS** electro-optical distributed aperture system
+- **EOLA** European pre-operational data link applications
+- **EOM** end of message
+- **EOP** Operational Evolution Plan
+- **EOT** end of text
+- **EOTS** electro-optical targeting system
+- **EP** engineering project
+- **EP** external power
+- **EP** envelope protection (AFCS)
+- **EPC** engineering project contractor
+- **EPC** ext power contactor
+- **EPCS** engine propulsion control system
+- **EPE** Estimated Position Error
+- **E-PIREPS** electronic pilot reports
+- **EPLD** electronically programmable logic device
+- **EPLERS** enhanced position location and reporting system
+- **EPR** engine pressure ratio
+- **EPROM** erasable programmable ROM
+- **EPS** electrical power system
+- **EPV** end-point voltage
+- **EQTG** electronic qualification test guide
+- **ERAST** environment research aircraft and sensor technology
+- **ERB** Engineering Review Board
+- **ERD** end routing domain
+- **EROPS** extended range operations
+- **ERP** effective radiation power
+- **ERP** eye reference point
+- **ERPDU** error protocol data unit
+- **ERP PDU** echo replay protocol data unit
+- **ERQ PDU** echo request protocol data unit
+- **ERU** engine replay unit
+- **ES** end system
+- **ES** extended squitter
+- **ESA** Estimated Safe Altitude
+- **ESA** European Space Agency
+- **ESAS** electronic situation awareness system
+- **ESAS** enhanced situational awareness system
+- **E-Scan** electronic scanning
+- **ESD** electrostatic discharge
+- **ESDS** electrostatic discharge and soldering
+- **ESDS** electrostatic sensitive devices
+- **ESH** end system hello
+- **ESID** engine and system indication display
+- **ESIS** electronic standby instrument system
+- **ESIS** engine and system indication system
+- **ESM** electronic support measures
+- **ESN** engineering serial number
+- **ESOIC** enhanced small-outline IC
+- **ESPTM** Electronic Stability and Protection 
+- **ESR** equivalent-series resistance
+- **ESS** environmental stress screening
+- **ESS** electronic switching system
+- **ESSD** electrostatic sensitive devices
+- **ESU** environmental sensor unit
+- **ETA** estimated time of arrival
+- **ETAS** enhanced TRACON/tower automation system
+- **ETB** end of block (ASCII/IA5 character)
+- **ETB** engineering test bed
+- **ETC** estimated time of completion
+- **ETD** estimated time of departure
+- **ETE** estimated time enroute
+- **ETI** elapsed time indicator
+- **ETM** elapsed time measurement
+- **ETM** electronic training manuals
+- **ETMS** engine-trend monitoring services
+- **ETMS** enhanced traffic management system
+- **ETNO** European Telecommunications Network Operators
+- **ETOPS** extended operations
+- **ETOPS** extended twin-engine operations
+- **ETP** equal time point (halfway there, by time)
+- **ETRC** expected taxi ramp clearances
+- **ETVS** enhanced terminal voice switch
+- **ETX** end of transmission
+- **EU** electronic unit
+- **EU** European Union
+- **EUAFS** enhanced upper air forecast system
+- **EUPS** external uninterruptible power supply
+- **EURATN** European ATN
+- **EURET** European research on transport systems
+- **EUROCAE** European Organization for Civil Aviation Equipment (European equivalent of RTCA)
+- **EUT** equipment under test 
+- **EV** earned value
+- **EVM** error vector magnitude
+- **EVS** enhanced vision system
+- **EW** electronic warfare
+- **"EWEB"** Ethernet Webb
+- **EWIS** electrical wiring interconnection system
+- **exocentric** outside-the-aircraft
+- **EZAP** enhanced zonal analysis procedures
