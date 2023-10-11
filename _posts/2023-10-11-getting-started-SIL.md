@@ -2,9 +2,9 @@
 layout: post
 title: "Starting Your First SIL"
 author: "Mark Ashinhust"
-categories: sample
+categories: documentation
 tags: [documentation,getting-started]
-image: arctic-1.jpg
+image: honda-jet.jpg
 ---
 
 # Markdown Support
