@@ -4,7 +4,7 @@ title: "Starting Your First SIL"
 author: "Mark Ashinhust"
 categories: documentation
 tags: [documentation,getting-started]
-image: honda-jet.jpg
+image: honda-jet.png
 ---
 
 # Markdown Support
