@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Starting Your First SIL"
+author: "Mark Ashinhust"
 categories: sample
-tags: [sample]
+tags: [documentation,getting-started]
 image: arctic-1.jpg
 ---
 
