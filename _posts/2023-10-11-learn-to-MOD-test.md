@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "So You Wanna Learn How to MOD Test?"
+title: "Learn How to MOD Test"
 author: "Mark Ashinhust"
 categories: documentation
 tags: [documentation,mod-testing]
