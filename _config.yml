@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Mark Hack's"
+title:		           "Mark Hacks"
 description:	       "Garmin PERF Mark Hacks Information. Helpful tips and guides for all things related to PERF at Garmin."
 author:              "Mark Ashinhust"
 
