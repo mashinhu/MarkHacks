@@ -530,7 +530,7 @@ permalink: /acronyms
 - **AWR** Aviation Widget Resource
 - **AZ** azimuth: angular measurement in horizontal plane
 
-### B
+## B
 - **BAW** below altitude weather (GWX80)
 - **BBML** broadband multi-link
 - **BC** back course
