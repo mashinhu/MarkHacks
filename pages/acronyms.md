@@ -13,6 +13,8 @@ permalink: /acronyms
 
 ## Table of Contents (by letter)
 
+*Note: TOC links are not working at the moment*
+
 [A](#A)
 [B](#B)
 [C](#C)
