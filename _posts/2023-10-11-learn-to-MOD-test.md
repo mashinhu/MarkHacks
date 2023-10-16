@@ -110,7 +110,7 @@ There are three main parts to a MOD test section.
 
 The result will look something like this.
 
-```C
+```c
 /*------------------------------------------------------
 Set up
 ------------------------------------------------------*/
@@ -150,7 +150,7 @@ UTF_sub_end();
 
 *Note: Pay attention to the comments written in this code section*
 
-```C
+```c
 static const struct                 /* test table                   */
     {
     char const * const  test_str;   /* descriptive test string      */
@@ -196,7 +196,7 @@ All numeric values should include units if possible.
 - Symbol concatenation should also be avoided with `tokcat()`. This similarly makes it hard to find and understand definitions.
 - Helper functions are generally preferred over macros unless it makes sense in the situation. Visual Studio sees macros as one line so you won't be able to step through them like functions.
 
-```C
+```c
 /*------------------------------------------------------
 Valid bounding boxes
 ------------------------------------------------------*/
