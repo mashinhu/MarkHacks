@@ -9,16 +9,23 @@ image: beechcraft-denali.png
 
 # Module Testing
 
+---
+
 Module Testing contains software libraries, utilities, and tools, that together form a testing framework to test a single source code module or multiple.
 
 **MTF** stands for Module Testing Framework
 
 ## Builder
+
+---
+
 - MTF uses Boost Build ( BB ) to execute module tests. BB can build and test on Windows and Linux platforms. Executables can be build and tested, then the results will be published.
 - BB manages dependencies required to produce results files.
 - BB builds a dependency tree from the build files to allow for parallelization and incremental builds.
 
 ## Software Libraries
+
+---
 
 ### UTF: Universal Test Framework
 
@@ -46,6 +53,8 @@ This is a library that provides fake implemetations of various module interfaces
 
 ## Utilities
 
+---
+
 This inclues wrapper scripts that provide homogenized functionality to build and execution environment.
 
 ### Launch Wrappers 
@@ -66,6 +75,8 @@ This is a set of scripts as well, written in Python. These scripts use the SrcML
 - The mock implementation can be configured to have behavior for testing.
 
 ## Tools
+
+---
 
 ### Compilers
 The MTF supports 
@@ -92,16 +103,22 @@ The MTF uses the **Results2HTML** framework / script to convert UTF's XML output
 ### SrcML
 The MTF uses this to parse source code.
 
+---
+
 # MOD Test Development
 
 This section includes the best practices and how to code for MOD testing.
 
-## Write your Tests as *Simply* as they can be
+## Make Your Tests *Simple*
+
+---
 
 - These should be easily interpreted and code should be where we spend our focus, not on trying to decipher a test.
 - The test should be similar to the requirement and makes it easier to understand. From reading the requirement and looking at the test, the reviewer should know exactly what is happening.
 
-## Test the Case Sections
+## Test Case Sections
+
+---
 
 There are three main parts to a MOD test section.
 1. Set up and initialization
@@ -140,7 +157,9 @@ verify_drc_data( &s_drc_data, &test_tbl[ i ].exp_drc_data, test_tbl[ i ].robust 
 UTF_sub_end();
 ```
 
-## Table Driven MOD Testing Practice
+## MOD Testing with Tables
+
+---
 
 - Requirements can usually be exercised with multiple data points. This can be done through a table.
 - A table organized inputs and reduces the MOD test code. These tables are usually recommended but not always the most efficient.
@@ -169,14 +188,18 @@ test_tbl[] =
     },
 ```
 
-## Follow the General Coding Standards
+## Follow General Coding Standards
+
+---
 
 - *CodeStdCheck* code checker should work for development. The new standrads are a bit too relaxed and this older one will provide the best check for you.
 - Use GVSplus in Visual Studio which has more tools and allows for better test development.
 - Consider only using block comments as this makes for better formatting and alignment.
   - You can use `//` comments, but that may cause unnecessary issues and alignment errors.
 
-## Output Print Statements
+## Print What is Going On
+
+---
 
 - The use of `UTF_sub_begin_msg()` and `UTF_sub_begin_nest_msg()` is encouraged for readability given the HTML format results.
 - Output statements should be written in English and states what is being done and what is expected in verification.
@@ -189,6 +212,8 @@ The following are not sufficient:
 All numeric values should include units if possible.
 
 ## Use of Macros
+
+---
 
 - Macros help when table data becomes too large and overwhelming.
 - Macros should be named appropriately and not at too deep of a layer. This should follow the coding conventions and guidelines.
@@ -212,10 +237,14 @@ BBOX_OUT _BBOX( _SCPOSN_D( 10.0, 20.0 ), _SCPOSN_D( -10.0, -20.0 ) ), FALSE
 
 ## Don't Test All Cases in one Place
 
+---
+
 - If the requirements test separate logic, they should be tested separately.
 - Having un-related requirements included can create maintenance issues in the future. We need everything to be concise and in the correct place.
 
-## Avoid Static Members of Module to be Tested
+## Avoid Testing Static Members of a Module
+
+---
 
 - It is not good practice to reference or use these static members at all within the MOD test.
 
@@ -224,6 +253,8 @@ BBOX_OUT _BBOX( _SCPOSN_D( 10.0, 20.0 ), _SCPOSN_D( -10.0, -20.0 ) ), FALSE
 3. This can also indicate that a member of the test is from a different level of abstraction and should be refactored into an easier test module.
 
 ## Divide up Larger Tests
+
+---
 
 - It may be difficult to manage large tests in one file. Keeping in one file may make things simpler, however, it may be better to break into multiple modules for readability.
 - This makes tests easier to maintain and divide up for reviews.
