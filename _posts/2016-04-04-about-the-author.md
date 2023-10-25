@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Mark Ashinhust"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: cessna-cj3.png
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi! My name is Mark Ashinhust and I am a Computer Engineer working at Garmin International. Here is my current favorite song.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/69aYiwVMrTpdqiZdupIAgZ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
